@@ -34,6 +34,6 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 
-Heroku link:
+Heroku link: https://text-editor-byrose-cd0de84d5cca.herokuapp.com/
 ---
 © 2023 YJLin Bootcamp Challenge accepted! 👓
